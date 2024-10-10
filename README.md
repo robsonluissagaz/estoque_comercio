@@ -1,5 +1,5 @@
 # estoque_comercio
-um programa para controlar mercadorias de um comércio
+Um programa para controlar mercadorias de um comércio
 
 
 ## Funcionalidades:
