@@ -23,5 +23,5 @@ Ao selecionar o produto e clicar em excluir o usuário exclui o produto do siste
 
 
 ### Alterar descrição
-Nesta opção o lista os produtos cadastrados no sistema.
-Ao selecionar o produto 
+Nesta opção o programa lista os produtos cadastrados no sistema.
+Ao selecionar o produto o usuário pode alterar todos os atributos inseridos na função Cadastrar produto.
